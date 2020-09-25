@@ -3,7 +3,7 @@
   top: 35px;
   left: 25%;
   width: 100vw;
-  z-index: 1000;
+  z-index: 100;
 }
 
 .search > h2 {
@@ -19,10 +19,10 @@
 
 .search > input {
   width: 539px;
-  padding: 10px 15px;
+  padding: 20px;
   left: 0;
-  height: 20px;
-  top: 400px;
+  height: 30px;
+  top: 420px;
   border: none;
 }
 
@@ -37,8 +37,7 @@
   text-transform: inherit !important;
   background-color: #ff7779;
   color: white;
-  width: 559px;
-  margin: 0 10px;
+  width: 579px;
 }
 
 .search > button:hover {
